@@ -194,16 +194,7 @@ git config --global user.email "seuemail@email.com"
 
 ## 📌 Conclusão
 
-Sistema instalado, internet configurada e Git pronto para uso na Banana Pi BPI-M4 Berry 🚀
+Sistema instalado, internet configurada e Git pronto para uso na Banana Pi BPI-M4 Berry e usar o Radar livre 🚀
 
 ---
 
-Agora isso aqui tá nível **README final de projeto mesmo** 🔥
-
-Se quiser o próximo nível:
-
-* 📄 PDF formatado bonito
-* 🖼️ Com imagens
-* 🧠 Script que faz tudo automático
-
-Só falar 👍
