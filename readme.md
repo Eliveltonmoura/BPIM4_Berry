@@ -50,9 +50,9 @@ cd Downloads/balenaEtcher-linux-x64
 ## 🔌 5. Preparar a placa
 
 * Inserir o cartão SD
-* Conectar HDMI
-* Conectar teclado
 * Ligar a energia
+* Conectar cabo TTL
+* Abriar a Minecom
 
 ---
 
