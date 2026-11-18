@@ -1,4 +1,4 @@
-Perfeito — agora integrei a parte do **Git** no seu README e deixei **tudo em ordem final, bem organizado e profissional** 👇
+
 
 ---
 
